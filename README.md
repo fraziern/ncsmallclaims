@@ -13,4 +13,7 @@ Using Processing, and a lot of help from Ben Fry's excellent "Visualizing Data,"
 
 This repo contains all the graphs, Processing source code, and data. Feel free to explore and make use of the results in any way you see fit.
 
+I'm particularly proud of [this][sd2] graph, which I thought was an interesting way to look at percentage change over time. You're really able to see what it means to make a statement like "fees went up 140% from 1984 to 2010," and the numbers are beautiful in their own way.
+
   [proc]: <https://processing.org/>
+  [sd2]: <ncsmallclaims/stackedDeltas2/image.jpg>
