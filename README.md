@@ -15,5 +15,7 @@ This repo contains all the graphs, Processing source code, and data. Feel free t
 
 I'm particularly proud of [this][sd2] graph, which I thought was an interesting way to look at percentage change over time. You're really able to see what it means to make a statement like "fees went up 140% from 1984 to 2010," and the numbers are beautiful in their own way.
 
+![stacked deltas 2](ncsmallclaims/stackedDeltas2/image.jpg)
+
   [proc]: <https://processing.org/>
   [sd2]: <ncsmallclaims/stackedDeltas2/image.jpg>
